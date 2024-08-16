@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4934db4ab4a15864e9ec5f1eb9c5665f, type: 3}
+  m_Name: ManagerVarsContainer
+  m_EditorClassIdentifier: 
+  bgThemeSpriteList:
+  - {fileID: 21300000, guid: 9c7f8abaceea58e4db628c3935ed7c4a, type: 3}
+  - {fileID: 21300000, guid: 5feddf0396f8fd842b6a2034a343e884, type: 3}
+  - {fileID: 21300000, guid: 274864b118ac4f54589e32e7035cd77f, type: 3}
+  - {fileID: 21300000, guid: 81cb795749aefac4ea7663bc3f7f71fb, type: 3}
+  platformThemeSpriteList:
+  - {fileID: 21300002, guid: 20da7e56cbb26b3498b25fb61fa9a7ff, type: 3}
+  - {fileID: 21300012, guid: 20da7e56cbb26b3498b25fb61fa9a7ff, type: 3}
+  - {fileID: 21300004, guid: 20da7e56cbb26b3498b25fb61fa9a7ff, type: 3}
+  - {fileID: 21300000, guid: 20da7e56cbb26b3498b25fb61fa9a7ff, type: 3}
+  characterPre: {fileID: 7309068021517174443, guid: 421690fda5dcc104c8a9794d3d6080f8, type: 3}
+  normalPlatformPre: {fileID: 4725081558889805431, guid: 47d8f33f2c4c2634f832610b182b1cae, type: 3}
+  commonPlatformGroup:
+  - {fileID: 5591892203005870582, guid: 28b61ffab2e11544f9d88dc60dcc2dcb, type: 3}
+  - {fileID: 1336657156322317524, guid: 35667f181b78fa149a97b527c4462659, type: 3}
+  - {fileID: 6191047791113464419, guid: 686da14c3c2da6646a102a87d63aabf8, type: 3}
+  grassPlatformGroup:
+  - {fileID: 8370960516841007972, guid: c98ace1f785ccb547855e5ef0fa7ae73, type: 3}
+  - {fileID: 4595826493750329131, guid: d4a9ff02e7de2e74d90e9ba906293e97, type: 3}
+  winterPlatformGroup:
+  - {fileID: 4605010744008140138, guid: c34be6946bd27a44daeb0195b834490d, type: 3}
+  - {fileID: 2451373316781103114, guid: 6a5b4272eec36904ca45d61d0bf9bcda, type: 3}
+  - {fileID: 2791604799592581383, guid: cd40fe05a6585234c8f696fb21530d43, type: 3}
+  spikePlatformLeft: {fileID: 174935088965118490, guid: 2a1d595f7ec397b489b4cf552e624b22, type: 3}
+  spikePlatformRight: {fileID: 6743540359118212887, guid: ec43bc67a9f00404aa06ea4063a67110, type: 3}
+  deathEffect: {fileID: 7096075168052571572, guid: 4b60a04065afccd4282db900d082073e, type: 3}
+  diamondPre: {fileID: 5659550540318260155, guid: 395cf6405ea1fd648967f1b4f8da5dbc, type: 3}
+  nextXPos: 0.554
+  nextYPos: 0.645
